@@ -37,7 +37,6 @@ I'm a highly motivated **full-stack developer** passionate about building scalab
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newton-mugambi-666671243/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NewtonMugambi)
 
 ---
 💡 *"Changing the world through technology, one project at a time."*

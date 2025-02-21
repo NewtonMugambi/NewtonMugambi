@@ -1,6 +1,6 @@
  Hi there, I'm Newton Mugambi 👋
 
-🚀 Full-Stack Developer | DevOps Enthusiast | 
+🚀 Full-Stack Developer | DevOps Engineer
 
 I'm a highly motivated **full-stack developer** passionate about building scalable web applications, mastering **DevOps & DevSecOps**, and making an impact through **technology**. My expertise spans **React.js, Vue.js, Next.js, TypeScript, Django REST, and PostgreSQL**, with experience in **Docker, CI/CD pipelines, and AWS deployments**.
 

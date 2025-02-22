@@ -50,12 +50,7 @@
 
 ---
 
-## 📚 Featured Code
 
-[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ecommerce-platform&theme=dark)](https://github.com/yourusername/ecommerce-platform)
-[![DevOps Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=devops-toolkit&theme=dark)](https://github.com/yourusername/devops-toolkit)
-
----
 
 ## 🤝 Collaborative Mindset
 
@@ -68,9 +63,8 @@
 - Open-source contributions
 
 [![LinkedIn](https://img.shields.io/badge/-Let's%20Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/newton-mugambi)
-[![Blog](https://img.shields.io/badge/Read%20My%20Tech%20Blogs-FF5722?logo=medium)](https://medium.com/@newton)
-[![Email](https://img.shields.io/badge/Contact%20Me%20Fast-D14836?logo=gmail)](mailto:newton@example.com)
+[![Email](https://img.shields.io/badge/Contact%20Me%20Fast-D14836?logo=gmail)](mailto:mugambinewton500@gmail.com.com)
 
 ---
 
-![Metrics](/github-metrics.svg)  <!-- Consider using github-metrics plugin -->
+

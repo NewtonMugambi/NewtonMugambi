@@ -42,7 +42,7 @@
 
 ## 🌱 Growth Trajectory
 
-**Q3 2024 Focus**  
+**2025 Focus**  
 ✅ Kubernetes Certified Administrator (CKA)  
 ✅ Advanced Terraform Patterns  
 ✅ AWS Security Specialty Prep  

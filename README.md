@@ -4,7 +4,7 @@
 [![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-success)](https://opensource.guide/)
 
 🚀 **Scalability Architect** | 🔒 **DevSecOps Advocate**  
-*Building resilient systems that scale securely in the cloud*
+*Building resilient systems that scale securely in the cloud* .
 
 ---
 

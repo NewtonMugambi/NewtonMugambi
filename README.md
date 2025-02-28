@@ -1,7 +1,5 @@
 # Hi there, I'm Newton Mugambi 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&label=Profile+Views)](https://github.com/NewtonMugambi)
-[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-success)](https://opensource.guide/)
 
 🚀 **Scalability Architect** | 🔒 **DevSecOps Advocate**  
 *Building resilient systems that scale securely in the cloud* 

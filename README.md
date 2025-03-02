@@ -36,7 +36,7 @@ I don’t just write code—I build **solutions** that work at scale.
 
 ## 🔥 Recent Work  
 
-- **Mental Health Platform** → Built a Next.js & Django app under Nextune Solutions  
+- **Mental Health Platform** → Built a Next.js & Django app under Nextune Solutions
 - **E-Commerce Scaling** → Optimized WooCommerce site, cutting load times by 40%  
 - **Cloud Cost Optimization** → Used Terraform to restructure AWS, saving 25% in costs  
 - **CI/CD Security** → Integrated SAST/DAST in Jenkins pipelines for microservices  

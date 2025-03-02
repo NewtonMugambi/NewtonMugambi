@@ -50,7 +50,7 @@ Every project I work on is built to **perform, scale, and stay secure.**
 
 ✅ Getting **Kubernetes Certified (CKA)**  
 ✅ Mastering **Advanced Terraform & AWS Security**  
-✅ Scaling **Nextune Solutions** and onboarding top developers  
+✅ Scaling **Nextune Solutions** and onboarding top developers     
 
 ---
 

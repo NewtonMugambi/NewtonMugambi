@@ -7,9 +7,9 @@ I build fast, scalable apps, automate infrastructure, and secure cloud environme
 
 ## 🛠️ What I Do  
 
-🔹 **Full-Stack Development** – From slick React/Next.js UIs to robust Django backends  
-🔹 **DevSecOps & Cloud** – Automating deployments, securing pipelines, and scaling systems  
-🔹 **Infrastructure as Code** – Terraform, AWS, Kubernetes – no manual configs, just automation  
+🔹 **Full-Stack Development** – From slick React/Next.js UIs to robust Django backends. 
+🔹 **DevSecOps & Cloud** – Automating deployments, securing pipelines, and scaling systems.  
+🔹 **Infrastructure as Code** – Terraform, AWS, Kubernetes – no manual configs, just automation.  
 
 I don’t just write code—I build **solutions** that work at scale.  
 

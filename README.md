@@ -1,17 +1,17 @@
 # 👋 Hey, I'm Newton Mugambi  
 
 🚀 **Full-Stack Developer | DevSecOps Engineer | Cloud Architect**  
-I build fast, scalable apps, automate infrastructure, and secure cloud environments.   
+I design scalable apps, automate infrastructure, and secure cloud environments.  
 
 ---
 
 ## 🛠️ What I Do  
 
-🔹 **Full-Stack Development** – From slick React/Next.js UIs to robust Django backends. 
-🔹 **DevSecOps & Cloud** – Automating deployments, securing pipelines, and scaling systems.  
-🔹 **Infrastructure as Code** – Terraform, AWS, Kubernetes – no manual configs, just automation.  
+🔹 **Full-Stack Development** → Next.js, React, Django – building fast, interactive web apps.  
+🔹 **DevSecOps & Cloud** → Automating deployments, securing pipelines, and scaling systems.  
+🔹 **Infrastructure as Code (IaC)** → Terraform, AWS, Kubernetes – no manual configs, just automation.  
 
-I don’t just write code—I build **solutions** that work at scale.  
+💡 I don’t just write code—I build **resilient, high-performing solutions**.  
 
 ---
 
@@ -24,7 +24,7 @@ I don’t just write code—I build **solutions** that work at scale.
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)  
 
-### **DevOps & Security**  
+### **DevOps, Cloud & Security**  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes)  
@@ -34,34 +34,33 @@ I don’t just write code—I build **solutions** that work at scale.
 
 ---
 
-## 🔥 Recent Work  
+## 🚀 Recent Work  
 
-- **Mental Health Platform** → Built a Next.js & Django app under Nextune Solutions
-- **E-Commerce Scaling** → Optimized WooCommerce site, cutting load times by 40%    
-- **Cloud Cost Optimization** → Used Terraform to restructure AWS, saving 25% in costs  
-- **CI/CD Security** → Integrated SAST/DAST in Jenkins pipelines for microservices  
-- **SEO Revamp** → Migrated a major platform to Next.js, improving search rankings by 60%  
+🔹 **Mental Health Platform** → Developed a Next.js & Django platform under Nextune Solutions.  
+🔹 **E-Commerce Scaling** → Optimized WooCommerce sites, cutting load times by **40%**.  
+🔹 **Cloud Cost Optimization** → Used Terraform to restructure AWS, saving **25% in costs**.  
+🔹 **CI/CD Security** → Integrated **SAST/DAST** in Jenkins pipelines for microservices.  
+🔹 **SEO Revamp** → Migrated a major platform to Next.js, improving search rankings by **60%**.  
 
-Every project I work on is built to **perform, scale, and stay secure.**  
+📌 Every project I build is designed to **perform, scale, and stay secure.**  
 
 ---
 
-## 🎯 What’s Next for Me  
+## 🎯 What’s Next  
 
-✅ Getting **Kubernetes Certified (CKA)**  
-✅ Mastering **Advanced Terraform & AWS Security**  
-✅ Scaling **Nextune Solutions** and onboarding top developers     
+✔ **Kubernetes Certified (CKA)**  
+✔ **Advanced Terraform & AWS Security**  
+✔ **Scaling Nextune Solutions** – Building a powerhouse tech company.  
 
 ---
 
 ## 🤝 Let’s Connect  
 
-I’m always open to collaborations, freelancing, or just discussing cool tech.  
+I'm open to **collaborations, freelancing, and tech discussions**.  
 
 📩 **Email:** [mugambinewton500@gmail.com](mailto:mugambinewton500@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/newton-mugambi](https://linkedin.com/in/newton-mugambi)  
 
 ---
 
-💡 **Final Thoughts**:  
-Changing the World one Project at a time
+💡 **Final Thought:** *Building tech that scales. Securing systems that last.*  

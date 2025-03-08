@@ -60,7 +60,7 @@ I design scalable apps, automate infrastructure, and secure cloud environments.
 I'm open to **collaborations, freelancing, and tech discussions**.  
 
 📩 **Email:** [mugambinewton500@gmail.com](mailto:mugambinewton500@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/newton-mugambi](https://linkedin.com/in/newton-mugambi)  
+🔗 **LinkedIn:** [linkedin.com/in/newton-mugambi](https://linkedin.com/in/newton-mugambi-666671243/)  
 
 ---
 

@@ -36,7 +36,7 @@ I design scalable apps, automate infrastructure, and secure cloud environments.
 
 ## 🚀 Recent Work  
 
-🔹 **TheraLink** → [theralink.net](https://theralink.net) – A platform I'm building for a client.  
+🔹 **TheraLink** → [theralink.net](https://theralink.net) – A platform for connecting therapists looking for jobs with organizations.  
 🔹 **Altech Writers** → [altechwriters.com](https://altechwriters.com)  Developed a Next.js & Django platform under Nextune Solutions.  
 🔹 **E-Commerce Scaling** → Optimized WooCommerce sites, cutting load times by **40%**.  
 🔹 **Cloud Cost Optimization** → Used Terraform to restructure AWS, saving **25% in costs**.  

@@ -21,7 +21,7 @@ I design scalable apps, automate infrastructure, and secure cloud environments.
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)   
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django)   
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)  
 
 ### **DevOps, Cloud & Security**  

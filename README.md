@@ -34,7 +34,7 @@ I design scalable apps, automate infrastructure, and secure cloud environments.
 
 ---
 
-## 🚀 Recent Work  
+##  Recent Work  
 
 🔹 **TheraLink** → [theralink.net](https://theralink.net) – A platform for connecting therapists looking for jobs with organizations.  
 🔹 **Altech Writers** → [altechwriters.com](https://altechwriters.com)  Developed a Next.js & Django platform under Nextune Solutions.  
@@ -43,15 +43,15 @@ I design scalable apps, automate infrastructure, and secure cloud environments.
 🔹 **CI/CD Security** → Integrated **SAST/DAST** in Jenkins pipelines for microservices.  
 🔹 **SEO Revamp** → Migrated a major platform to Next.js, improving search rankings by **60%**.  
 
-📌 Every project I build is designed to **perform, scale, and stay secure.**  
+ Every project I build is designed to **perform, scale, and stay secure.**  
 
 ---
 
-## 🎯 What’s Next  
+##  What’s Next  
 
 ✔ **Kubernetes Certified (CKA)**  
 ✔ **Advanced Terraform & AWS Security**  
-✔ **Scaling Nextune Solutions** – Building a powerhouse tech company.  
+
 
 ---
 

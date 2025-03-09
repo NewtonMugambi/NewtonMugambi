@@ -10,7 +10,7 @@ I design scalable apps, automate infrastructure, and secure cloud environments.
 🔹 **Full-Stack Development** → Next.js, React, Django – building fast, interactive web apps.  
 🔹 **DevSecOps & Cloud** → Automating deployments, securing pipelines, and scaling systems.  
 🔹 **Infrastructure as Code (IaC)** → Terraform, AWS, Kubernetes – no manual configs, just automation.  
-
+ 
 💡 I don’t just write code—I build **resilient, high-performing solutions**.  
 
 ---

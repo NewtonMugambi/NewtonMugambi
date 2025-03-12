@@ -1,7 +1,7 @@
  # 👋 Hey, I'm Newton Mugambi  
 
  **Full-Stack Developer | DevSecOps Engineer | Cloud Architect**  
-I design scalable apps, automate infrastructure, and secure cloud environments.    
+I design scalable apps, automate infrastructure, and secure cloud environments.  
 
 ---
 

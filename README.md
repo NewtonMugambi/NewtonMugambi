@@ -5,7 +5,7 @@ I design scalable apps, automate infrastructure, and secure cloud environments.
 
 ---
 
-## 🛠️ What I Do  
+## 🛠️ What I Do    
 
 🔹 **Full-Stack Development** → Next.js, React, Django – building fast, interactive web apps.   
 🔹 **DevSecOps & Cloud** → Automating deployments, securing pipelines, and scaling systems.  

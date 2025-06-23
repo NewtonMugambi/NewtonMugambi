@@ -1,18 +1,23 @@
 # 👋 Hey, I'm Newton Mugambi  
- 
-**Full-Stack Developer | DevSecOps Engineer | Cloud Architect**     
-I design scalable apps, automate infrastructure, and secure cloud environments.        
 
---- 
+**Full-Stack Developer | DevSecOps Engineer | Cloud Architect**  
+I design scalable apps, automate infrastructure, and secure cloud environments — turning code into production-ready systems that scale and last.
 
-## 🛠️ What I Do    
+---
 
-🔹 **Full-Stack Development** → Next.js, React, Django, Angular, **AngularJS** – building fast, interactive web apps across modern and legacy stacks.   
-🔹 **DevSecOps & Cloud** → Automating deployments, securing pipelines, and scaling systems.  
-🔹 **Infrastructure as Code (IaC)** → Terraform, AWS, Kubernetes – no manual configs, just automation. 
- 
-💡 I don’t just write code—I build **resilient, high-performing solutions**.  
- 
+## 🛠️ What I Do
+
+🔹 **Full-Stack Development**  
+React, Next.js, Django, Angular, **AngularJS** – I build performant, user-friendly apps across both modern and legacy stacks.  
+
+🔹 **DevSecOps & Cloud Engineering**  
+I automate CI/CD pipelines, secure delivery workflows, and deploy highly available systems on AWS & Kubernetes.  
+
+🔹 **Infrastructure as Code (IaC)**  
+Terraform is my go-to for reproducible infrastructure. No manual configs, just clean, version-controlled automation.  
+
+💡 I don’t just write code — I build **resilient, secure, high-performing solutions**.
+
 ---
 
 ## 💻 Tech Stack  
@@ -32,40 +37,44 @@ I design scalable apps, automate infrastructure, and secure cloud environments.
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes)  
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform)  
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins)  
-![OWASP](https://img.shields.io/badge/-OWASP-000000?logo=owasp)  
+![OWASP](https://img.shields.io/badge/-OWASP-000000?logo=owasp)
 
 ---
 
 ## 🧠 Currently Focused On  
 
-Lately, I’ve been diving deeper into legacy stack integrations and frontend performance, including modern Angular and **AngularJS**.  
+- Mastering **Spring Boot + Spring Cloud** for scalable Java-based microservices  
+- Integrating modern Angular apps into legacy **AngularJS** codebases  
+- Pursuing certifications: **CKAD**, **AWS SAA**, and **Terraform Advanced**  
 
 ---
 
-##  Recent Work  
+## 💼 Recent Work  
 
-🔹 **TheraLink** → [theralink.net](https://theralink.net) – A platform for connecting therapists looking for jobs with organizations.  
-🔹 **Altech Writers** → [altechwriters.com](https://altechwriters.com) – Developed a Next.js & Django platform under Nextune Solutions.  
-🔹 **E-Commerce Scaling** → Optimized WooCommerce sites, cutting load times by **40%**.  
+🔹 [**TheraLink**](https://theralink.net) — Built a platform connecting therapists to job opportunities  
+🔹 [**Altech Writers**](https://altechwriters.com) — Developed a scalable Next.js + Django platform under Nextune Solutions  
+🔹 **WooCommerce Performance** — Reduced load times by **40%** through caching and optimized deployments  
 
-Every project I build is designed to **perform, scale, and stay secure.**  
-
----
-
-##  What’s Next  
-
-✔ **Kubernetes Certified (CKA)**  
-✔ **Advanced Terraform & AWS Security**  
+Every project is designed to **perform, scale, and stay secure**.
 
 ---
 
-## Let’s Connect  
+## 🔭 What’s Next  
 
-I'm open to **collaborations, freelancing, and tech discussions**.  
+✔ Becoming **Kubernetes Certified (CKA/CKAD)**  
+✔ Specializing in **Cloud Security** and **Infrastructure Scaling**  
+✔ Continuing to mentor & collaborate in the dev community  
+
+---
+
+## 🤝 Let’s Connect  
+
+Open to **collaborations, remote opportunities, freelancing, and good tech conversations.**  
 
 📩 **Email:** [mugambinewton500@gmail.com](mailto:mugambinewton500@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/newton-mugambi](https://linkedin.com/in/newton-mugambi-666671243/)  
+🔗 **LinkedIn:** [linkedin.com/in/newton-mugambi](https://linkedin.com/in/newton-mugambi-666671243/)
 
 ---
 
-💡 **Final Thought:** *Building tech that scales. Securing systems that last.*  
+💡 **Final Thought:**  
+*Building tech that scales. Securing systems that last.*  
